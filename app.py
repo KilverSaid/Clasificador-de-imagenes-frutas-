@@ -15,7 +15,7 @@ def cargar_clases():
 
 # Configuración de la interfaz en Streamlit
 st.set_page_config(page_title="Clasificador de Frutas", layout="centered")
-st.title("🍎 Clasificador de Imágenes de Frutas 🍌")
+st.title("Clasificador de Imágenes de Frutas")
 st.write("Carga una imagen para identificar qué fruta es utilizando el modelo entrenado.")
 
 st.markdown("---")
